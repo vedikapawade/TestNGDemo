@@ -85,6 +85,6 @@ Skips: 0
 
 ## 👩‍💻 Author
 
-**Aditi Nilesh Shirbhate**
+**Vedika Vijay Pawade**
 
 GitHub: https://github.com/vedikapawade
